@@ -7,10 +7,10 @@
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
 * [x] Bootstrap
 * [ ] Quality Assurance (FreeCodeCamp Courses)
-* [ ] Git (Slurm Courses)
+* [x] Git (Slurm Courses)
 * [ ] Basic administration of Linux servers (#slurm Courses)
 * [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
-* [ ] Python Developer
+* [ ] Python Developer (Stepik, Yandex, Camp)
 
 
 My certificates:

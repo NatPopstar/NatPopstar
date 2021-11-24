@@ -6,10 +6,11 @@
 * [ ] Test automation using Selenium and Python (Stepik Courses)
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
 * [x] Bootstrap
-* [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
 * [ ] Quality Assurance (FreeCodeCamp Courses)
 * [ ] Git (Slerm Courses)
 * [ ] Basic administration of Linux servers (Slerm Courses)
+* [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
+* [ ] Python Developer
 
 
 My certificates:

@@ -7,8 +7,8 @@
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
 * [x] Bootstrap
 * [ ] Quality Assurance (FreeCodeCamp Courses)
-* [ ] Git (Slerm Courses)
-* [ ] Basic administration of Linux servers (Slerm Courses)
+* [ ] Git (Slurm Courses)
+* [ ] Basic administration of Linux servers (#slurm Courses)
 * [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
 * [ ] Python Developer
 

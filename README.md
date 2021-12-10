@@ -12,6 +12,9 @@
 * [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
 * [ ] Python Developer (Stepik, Yandex, Camp)
 * [ ] SQL
+* [ ] Perl
+* [ ] React
+* [ ] Java
 
 My certificates:
 * https://disk.yandex.ru/i/krcLKRzrAlTMyw

@@ -17,12 +17,13 @@
 * [ ] Java
 
 My certificates:
-* https://disk.yandex.ru/i/krcLKRzrAlTMyw
-* https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design
+* [Yandex.Praktikum](https://disk.yandex.ru/i/krcLKRzrAlTMyw)
+* [FreeCodeCamp](https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design)
 
 I need it now: 
-* https://github.com/NatPopstar/Otus
-* https://github.com/NatPopstar/Testing-Automation
+* [Отус](https://github.com/NatPopstar/Otus)
+* [Автоматизация](https://github.com/NatPopstar/Testing-Automation)
+* [My_Colab](https://colab.research.google.com/drive/15HFy0TfqB4pwCsY4NnivEk00jRxC5ehd?authuser=2)
 
 Book`s list to read:
 * [ ] Андреев, О.А. Техника быстрого чтения. Самоучитель / О.А. Андреев. – Москва : SmartBook, 2011. – 320 с.

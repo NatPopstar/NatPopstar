@@ -7,7 +7,6 @@
 * [x] Git
 * [x] Basic administration of Linux servers
 * [ ] Data Scientist PRO (Skillbox)
-* [ ] Game QA Engineer (OTUS Courses)
 * [ ] Test automation using Selenium and Python (Stepik Courses)
 * [ ] Quality Assurance (FreeCodeCamp Courses)
 * [ ] JavaScript Algorithms and Data Structures (FreeCodeCamp Courses)
@@ -19,7 +18,7 @@ My certificates:
 * [FreeCodeCamp](https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design)
 
 I need it now: 
-* [Отус](https://github.com/NatPopstar/Otus)
+* [Data_Science](https://github.com/NatPopstar/Data_Science)
 * [Python.Learning](https://github.com/NatPopstar/Python.Learning)
 * [Автоматизация](https://github.com/NatPopstar/Testing-Automation)
 * [Что почитать](https://github.com/NatPopstar/Books_to_read/blob/main/README.md)

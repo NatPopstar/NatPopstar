@@ -1,5 +1,4 @@
-### Hello, my name is Natalia (www.linkedin.com/in/nataliapopovaqa).
-### I am a beginner in IT. Finished QA courses and learn another different things now.
+### Hello, my name is Natalia (www.linkedin.com/in/nataliapopovaqa). 
 **My own quests:**
 * [ ] Google Project Management Certification (Coursera)
 * [x] QA Engineer (Yandex.Praktikum courses)

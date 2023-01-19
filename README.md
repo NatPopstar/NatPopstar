@@ -6,10 +6,11 @@
 ### 
 **My own quests:**
 * [x] Google Project Management Certification (Coursera)
-* [ ] Project Initiation: Starting a Successful Project
+* [x] Project Initiation: Starting a Successful Project (Coursera)
+* [ ] Project Planning: Putting It All Together (Coursera)
 * [x] QA Engineer (Yandex.Praktikum courses)
-* [x] Test automation using Selenium and Python (Stepik Courses)
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
+* [x] Test automation using Selenium and Python (Stepik Courses)
 * [x] Bootstrap (FreeCodeCamp Courses)
 * [x] Git
 * [x] Basic administration of Linux servers
@@ -19,9 +20,10 @@
 
 
 My certificates:
-* [Yandex.Praktikum](https://disk.yandex.ru/i/krcLKRzrAlTMyw)
-* [FreeCodeCamp](https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design)
-* [Google](https://coursera.org/share/c67eaf185ec56c88d5421f0936bd8146)
+* [QA Engineer](https://disk.yandex.ru/i/krcLKRzrAlTMyw)
+* [Responsive WebDesign](https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design)
+* [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/Q5JMY8VF7GDV)
+* [Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/GTUM94TQY5Z4)
 
 READ IT: 
 * [GO ===> THERE ](https://github.com/NatPopstar/Books_to_read/blob/main/README.md)

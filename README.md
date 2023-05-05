@@ -1,8 +1,7 @@
 ### Hello, my name is Natalia. 
 ### [LinkedIn](www.linkedin.com/in/nataliapopovaqa)
 ### [Twitter](https://twitter.com/NataliaHerbera)
-### [Vkontakte](https://vk.com/ladyherber)
-### [Instagram](https://www.instagram.com/nataliaherbera/)
+### [Facebook](https://www.facebook.com/profile.php?id=100092604933604)
 ### 
 **My own quests:**
 * [x] Google Project Management Certification (Coursera)

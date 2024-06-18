@@ -7,8 +7,8 @@
 * [x] Google Project Management Certification (Coursera)
 * [x] Project Initiation: Starting a Successful Project (Coursera)
 * [x] Project Planning: Putting It All Together (Coursera)
-* [ ] Project Execution: Running the Project (Coursera)
-* [ ] Agile Project Management (Coursera)
+* [x] Project Execution: Running the Project (Coursera)
+* [x] Agile Project Management (Coursera)
 * [ ] Capstone: Applying Project Management in the Real World (Coursera)
 * [x] QA Engineer (Yandex.Praktikum courses)
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
@@ -18,18 +18,20 @@
 * [x] Basic administration of Linux servers
 * [x] Excel
 * [x] SQL (Coursera)
+* [x] Business English: Networking
+* [x] BE: Meeting
+* [ ] BE: Planning & Negotiating
+* [ ] BE: Making Presentations
+* [ ] BE: Capstone Project
 * [ ] SQL (Stepik Courses)
-* [ ] TOEFL
-* [ ] SAT
 * [ ] Data Scientist PRO (Skillbox)
 
 
 My certificates:
 * [QA Engineer](https://disk.yandex.ru/i/krcLKRzrAlTMyw)
 * [Responsive WebDesign](https://www.freecodecamp.org/certification/nat_popstar/responsive-web-design)
-* [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/Q5JMY8VF7GDV)
-* [Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/GTUM94TQY5Z4)
-* [Project Planning: Putting It All Together](https://coursera.org/share/10b513c27c6dac38a3a8784b6c235d9a)
+* Project Management Specialization (soon)
+* Business English Communication Skills Specialization (soon)
 
 READ IT: 
 * [GO ===> THERE ](https://github.com/NatPopstar/Books_to_read/blob/main/README.md)

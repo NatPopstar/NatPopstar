@@ -8,7 +8,7 @@
 * [x] Project Planning: Putting It All Together (Coursera)
 * [x] Project Execution: Running the Project (Coursera)
 * [x] Agile Project Management (Coursera)
-* [ ] [Capstone: Applying Project Management in the Real World (Coursera)] (https://github.com/NatPopstar/capstone_project/tree/main)
+* [ ] [Capstone: Applying Project Management in the Real World](https://github.com/NatPopstar/capstone_project/tree/main) (Coursera)
 * [ ] [CAMP Certification](https://www.pmi.org/certifications/certified-associate-capm)
 * [x] QA Engineer (Yandex.Praktikum courses)
 * [x] Responsive WebDesign (FreeCodeCamp Courses)

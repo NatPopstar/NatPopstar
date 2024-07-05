@@ -1,6 +1,5 @@
-### Hello, my name is Natalia. 
+### Hello, my name is Natalia Popova. 
 ### [LinkedIn](www.linkedin.com/in/nataliapopovaqa)
-### [Twitter](https://twitter.com/NataliaHerbera)
 ### [Facebook](https://www.facebook.com/profile.php?id=100092604933604)
 ### 
 **My own quests:**
@@ -9,7 +8,8 @@
 * [x] Project Planning: Putting It All Together (Coursera)
 * [x] Project Execution: Running the Project (Coursera)
 * [x] Agile Project Management (Coursera)
-* [ ] Capstone: Applying Project Management in the Real World (Coursera)
+* [ ] [Capstone: Applying Project Management in the Real World (Coursera)] (https://github.com/NatPopstar/capstone_project/tree/main)
+* [ ] [CAMP Certification](https://www.pmi.org/certifications/certified-associate-capm)
 * [x] QA Engineer (Yandex.Praktikum courses)
 * [x] Responsive WebDesign (FreeCodeCamp Courses)
 * [x] Test automation using Selenium and Python (Stepik Courses)
